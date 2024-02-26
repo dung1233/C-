@@ -8,7 +8,7 @@ class Program
     {
         List<Customer> customers = new List<Customer>();
 
-        // Thêm khách hàng Việt Nam
+
         VietnameseCustomer vietnameseCustomer = new VietnameseCustomer
         {
             Id = "VN001",
@@ -20,7 +20,7 @@ class Program
         };
         customers.Add(vietnameseCustomer);
 
-        // Thêm khách hàng nước ngoài
+  
         ForeignCustomer foreignCustomer = new ForeignCustomer
         {
             Id = "F001",
@@ -32,7 +32,7 @@ class Program
         };
         customers.Add(foreignCustomer);
 
-        // In thông tin và tổng tiền của từng khách hàng
+        
         foreach (Customer customer in customers)
         {
             Console.WriteLine($"Customer ID: {customer.Id}");

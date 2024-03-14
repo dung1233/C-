@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Exam02\Exam02\bin\Debug\Exam02.exe.config
+C:\Users\HP\source\repos\Exam02\Exam02\bin\Debug\Exam02.exe
+C:\Users\HP\source\repos\Exam02\Exam02\bin\Debug\Exam02.pdb
+C:\Users\HP\source\repos\Exam02\Exam02\obj\Debug\Exam02.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Exam02\Exam02\obj\Debug\Exam02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exam02\Exam02\obj\Debug\Exam02.exe
+C:\Users\HP\source\repos\Exam02\Exam02\obj\Debug\Exam02.pdb

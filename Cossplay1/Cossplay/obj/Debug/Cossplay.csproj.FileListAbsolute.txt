@@ -1,7 +1,0 @@
-C:\Users\HP\source\repos\Cossplay1\Cossplay\bin\Debug\Cossplay.exe.config
-C:\Users\HP\source\repos\Cossplay1\Cossplay\bin\Debug\Cossplay.exe
-C:\Users\HP\source\repos\Cossplay1\Cossplay\bin\Debug\Cossplay.pdb
-C:\Users\HP\source\repos\Cossplay1\Cossplay\obj\Debug\Cossplay.csproj.AssemblyReference.cache
-C:\Users\HP\source\repos\Cossplay1\Cossplay\obj\Debug\Cossplay.csproj.CoreCompileInputs.cache
-C:\Users\HP\source\repos\Cossplay1\Cossplay\obj\Debug\Cossplay.exe
-C:\Users\HP\source\repos\Cossplay1\Cossplay\obj\Debug\Cossplay.pdb
